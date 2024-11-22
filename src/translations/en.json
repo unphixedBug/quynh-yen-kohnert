@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "creations": "Creations",
+    "about": "My Story",
+    "contact": "Contact"
+  },
+  "common": {
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry"
+  },
+  "filters": {
+    "title": "Filters",
+    "all": "All"
+  }
+}
